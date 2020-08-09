@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-all-date-methods/static/css/main.54ae1c15.chunk.css",
+    "main.js": "/react-all-date-methods/static/js/main.4c33024d.chunk.js",
+    "main.js.map": "/react-all-date-methods/static/js/main.4c33024d.chunk.js.map",
+    "runtime-main.js": "/react-all-date-methods/static/js/runtime-main.95fe2cd5.js",
+    "runtime-main.js.map": "/react-all-date-methods/static/js/runtime-main.95fe2cd5.js.map",
+    "static/js/2.7da4163f.chunk.js": "/react-all-date-methods/static/js/2.7da4163f.chunk.js",
+    "static/js/2.7da4163f.chunk.js.map": "/react-all-date-methods/static/js/2.7da4163f.chunk.js.map",
+    "index.html": "/react-all-date-methods/index.html",
+    "precache-manifest.39c0f6843350cfb373d99949899b8ca7.js": "/react-all-date-methods/precache-manifest.39c0f6843350cfb373d99949899b8ca7.js",
+    "service-worker.js": "/react-all-date-methods/service-worker.js",
+    "static/css/main.54ae1c15.chunk.css.map": "/react-all-date-methods/static/css/main.54ae1c15.chunk.css.map",
+    "static/js/2.7da4163f.chunk.js.LICENSE.txt": "/react-all-date-methods/static/js/2.7da4163f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95fe2cd5.js",
+    "static/js/2.7da4163f.chunk.js",
+    "static/css/main.54ae1c15.chunk.css",
+    "static/js/main.4c33024d.chunk.js"
+  ]
+}
