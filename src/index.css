@@ -1,13 +1,70 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html {
+  font-size: 100%;
+}
+
+body {
+  background: #111;
+  color: #fff;
+  font-family: "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 100;
+  line-height: 1.4;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  filter: hue-rotate(30deg);
+}
+
+a:active {
+  filter: grayscale();
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h1,
+h3 {
+  margin-bottom: 0.5rem;
+  font-weight: 200;
+}
+
+h1 a {
+  color: hotpink;
+}
+
+h3 a {
+  font-size: 1.3rem;
+  color: hotpink;
+}
+
+span {
+  font-size: 1.3rem;
+  color: rgb(169, 160, 255);
+}
+
+span,
+a {
+  padding: 0 0.4rem;
+}
+
+@media (max-width: 500px) {
+  html {
+    font-size: 60%;
+  }
 }
